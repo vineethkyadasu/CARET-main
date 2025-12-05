@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
                     <div>
                         <Link to="/" className="block mb-4">
-                            <img src="/images/LOGO.png" alt="Caret Enterprises" className="h-10 w-auto" />
+                            <img src="/images/CARAT ENTERPRISES.svg" alt="Caret Enterprises" className="h-20 w-auto" />
                         </Link>
                         <p className="text-sm mb-4">
                             Providing comprehensive digital solutions for e-commerce businesses of all sizes. We transform ideas into successful online ventures.
@@ -62,7 +62,7 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-gray-200 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-                    <p>&copy; 2023 Caret Enterprises. All rights reserved.</p>
+                    <p>&copy; 2025 Caret Enterprises. All rights reserved.</p>
                     <p className="text-gray-500 mt-2 md:mt-0">Designed and Developed by <a href="https://vikrin.com" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700">Vikrin</a></p>
                     <div className="flex space-x-6 mt-4 md:mt-0">
                         <a href="#" className="hover:text-gray-900 transition-colors">Privacy Policy</a>
