@@ -78,21 +78,21 @@ export const processSteps = [
     {
         number: "1",
         title: "Consultation",
-        description: "We start with a detailed consultation to understand your needs, space, and style preferences."
+        description: "We understand your business goals, target market, products, and operational challenges to create the right digital strategy."
     },
     {
         number: "2",
-        title: "Design",
-        description: "Our designers create a custom layout that maximizes your space and meets your storage requirements."
+        title: "Strategy & Design",
+        description: "We plan your website, marketplace setup, branding, and automation workflows with a clear growth-focused structure."
     },
     {
         number: "3",
-        title: "Fabrication",
-        description: "Using CNC technology and premium materials, we craft your custom closet components with precision."
+        title: "Development & Execution",
+        description: "Our team develops your website, integrates marketplaces, sets up marketing campaigns, and configures automation systems."
     },
     {
         number: "4",
-        title: "Installation",
-        description: "Our professional team installs your new closet system efficiently and with minimal disruption."
+        title: "Launch, Optimize & Scale",
+        description: "We launch your project, track performance, optimize for results, and continuously scale your business with data-driven improvements."
     }
 ];
