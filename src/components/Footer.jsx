@@ -65,9 +65,21 @@ const Footer = () => {
                     <p>&copy; 2025 Caret Enterprises. All rights reserved.</p>
                     <p className="text-gray-500 mt-2 md:mt-0">Designed and Developed by <a href="https://vikrin.com" target="_blank" rel="noopener noreferrer" className="text-red-600 hover:text-red-700">Vikrin</a></p>
                     <div className="flex space-x-6 mt-4 md:mt-0">
-                        <a href="#" className="hover:text-gray-900 transition-colors">Privacy Policy</a>
-                        <a href="#" className="hover:text-gray-900 transition-colors">Terms of Service</a>
-                    </div>
+  <Link
+    to="/privacy-policy"
+    className="hover:text-gray-900 transition-colors"
+  >
+    Privacy Policy
+  </Link>
+
+  <Link
+    to="/terms-of-service"
+    className="hover:text-gray-900 transition-colors"
+  >
+    Terms of Service
+  </Link>
+</div>
+
                 </div>
             </div>
         </footer>
